@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>MOBLearn</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body >
@@ -123,6 +123,65 @@
                 <p class="text-xl text-center text-slate-500  tracking-wide">You can learn something totally new to advance your <br> career. Or maybe you just want to knock off the rust.<br> Try Moblearn to get access to a variety of courses, <br> from machine learning to web development.</p>
             </div>
         </div>
+    </section>
+
+    <!-- fourth section -->
+
+    <section class="bg-slate-900 mt-10">
+        <div class="flex justify-between">
+            <!-- desc -->
+            <div>
+                <h1 class="text-5xl font-bold text-white my-72 px-10">
+                Coding has never been easier. <br> Start learning now!
+                </h1>
+
+            </div>
+
+            <!-- form -->
+            <div class="mt-12 mr-10">
+                <h1 class="text-center text-white mb-10 font-bold text-3xl">SIGN UP</h1>
+            <form class="w-full max-w-lg" method="post">
+  <div class="flex flex-wrap -mx-3 mb-6">
+    <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
+      <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2" for="grid-first-name">
+        First Name
+      </label>
+      <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-red-500 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="grid-first-name" type="text" placeholder="Jane">
+      <p class="text-red-500 text-xs italic">Please fill out this field.</p>
+    </div>
+    <div class="w-full md:w-1/2 px-3">
+      <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2" for="grid-last-name">
+        Last Name
+      </label>
+      <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" placeholder="Doe">
+    </div>
+  </div>
+  <div class="flex flex-wrap -mx-3 mb-6">
+    <div class="w-full px-3">
+      <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2" for="grid-password">
+        Password
+      </label>
+      <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-password" type="password" placeholder="******************">
+      <p class="text-gray-600 text-xs italic">Make it as long and as crazy as you'd like</p>
+    </div>
+  </div>
+  <div class="flex flex-wrap -mx-3 mb-6">
+    <div class="w-full px-3">
+      <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2" for="grid-password">
+        Confirm Password
+      </label>
+      <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-password" type="password" placeholder="******************">
+      <p class="text-gray-600 text-xs italic">confirm Password should be the same as password</p>
+    </div>
+  </div>
+
+
+<button class="bg-blue-600 text-white rounded-md px-8 py-2 hover:bg-blue-900">Sign up</button>
+</form>
+            </div>
+
+        </div>
+
     </section>
 </body>
 </html>
