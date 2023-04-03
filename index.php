@@ -106,5 +106,23 @@
     </section>
 
     <!-- third section -->
+    <section>
+        <!-- heading -->
+        <h1 class="text-center text-6xl font-bold my-28 tracking-wide">The perfect platform to boost <br> your technical skills</h1>
+
+        <!-- details -->
+        <div class="flex justify-evenly">
+            <div>
+                <img src="./home-perfect-platform-1-rebranding.svg" alt="">
+                <h2 class="text-center font-bold text-4xl mb-5">Students</h2>
+                <p class="text-xl text-center text-slate-500 tracking-wide">Prepping for the big test or want to ace your  first <br> interview? Use mobLearn's real-world practice to <br> reinforce what you've learned and get you ready for <br> that big moment.</p>
+            </div>
+            <div>
+                <img src="./home-perfect-platform-2.svg" alt="">
+                <h2 class="text-center font-bold text-4xl mb-5">Professionals</h2>
+                <p class="text-xl text-center text-slate-500  tracking-wide">You can learn something totally new to advance your <br> career. Or maybe you just want to knock off the rust.<br> Try Moblearn to get access to a variety of courses, <br> from machine learning to web development.</p>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
