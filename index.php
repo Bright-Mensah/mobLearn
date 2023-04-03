@@ -9,6 +9,7 @@
 </head>
 <body >
 
+<!-- first section -->
     <section class="bg-slate-900 pb-28">
   
    <div class="flex justify-between ">
@@ -70,7 +71,40 @@
 </div>
 
 </section>
-  
+
+<!-- second section -->
+<section class="bg-slate-200">
+
+
+
+<div class="flex">
+
+
+
+<div class="bg-white rounded-md mx-5 py-1 px-2 my-10 shadow-lg shadow-cyan-500/50 drop-shadow-2xl hover:shadow-black hover:bg-rose-900 hover:text-white group">
+        <img src="./home-why-solo-1.svg" class=" rounded-full object-contain " alt="image of javascript">
+        <h1 class="font-bold py-3 text-center text-4xl">Tailored to you</h1>
+        <p class="text-center text-xl text-slate-500 font-serif hover:text-white group-hover:text-white">No matter your experience level, you'll be <br> writing real, functional code within minutes <br> of starting your first course.</p>
+    </div>
+
+<div class="bg-white rounded-md mx-2 py-1 px-2 my-10 shadow-lg shadow-cyan-500/50 hover:bg-purple-900 hover:shadow-yellow-900 hover:text-white group">
+        <img src="./home-why-solo-2.svg" class=" rounded-full object-contain" alt="image of javascript">
+        <h1 class="font-bold py-3 text-center text-4xl">Bite-sized</h1>
+        <p class="text-center text-xl text-slate-500 font-serif group-hover:text-white">Go step-by-step through our unique <br> courses. Assess what you’ve learned with <br> in-lesson quizzes, and gradually advance your <br> skills with practice.</p>
+    </div>
+
+<div class="bg-white rounded-md mx-5 py-1 px-2 my-10 shadow-lg shadow-cyan-500/50 hover:shadow-teal-200 hover:bg-green-900 hover:text-white group">
+        <img src="./home-why-solo-3.svg" class=" rounded-full object-contain " alt="image of javascript">
+        <h1 class="font-bold py-3 text-center text-4xl">Get Proof</h1>
+        <p class="text-center text-xl text-slate-500 font-serif group-hover:text-white">Earn a certificate to validate your newly <br> acquired skills. Post it on social for others <br> to see.</p>
+    </div>
+
+
+
     
+    </div>
+    </section>
+
+    <!-- third section -->
 </body>
 </html>
