@@ -184,6 +184,27 @@
         </div>
 
     </section>
+    <!-- footer -->
+    <footer class="bg-slate-950 h-20">
+      <div class="flex justify-between">
+        <div>
+
+          <ul class="flex mt-7">
+            <li class="mx-6"><a  class="text-gray-400" >Home</a></li>
+            <li class="mx-6"><a  class="text-gray-400">FAQ</a></li>
+            <li class="mx-6"><a  class="text-gray-400">Contact</a></li>
+            <li class="mx-6"><a  class="text-gray-400">Terms of Use</a></li>
+            <li class="mx-6"><a  class="text-gray-400">Privacy policy</a></li>
+            <li></li>
+          </ul>
+        </div>
+        <!-- made with love -->
+        <div class="mt-7">
+          <p  class="text-gray-400 mr-10">made with ❤️ by mobLearn | &copy; <?php echo date('Y') ?></p>
+        </div>
+      </div>
+
+    </footer>
     <script src="script.js"></script>
 </body>
 </html>
