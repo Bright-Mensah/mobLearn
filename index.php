@@ -184,6 +184,57 @@
         </div>
 
     </section>
+    <!-- social media section -->
+    <div class="bg-slate-800 h-24">
+      <div class="flex justify-between">
+        <!-- linkedin -->
+        
+        <div class="flex my-5 ">
+          <div class="flex mr-24">
+
+            <img class="w-8 ml-4 object-contain" src="images/linkedin.png" alt="">
+            <h3 class="text-white font-bold text-xs py-2 ml-5">Follow us on <br>  Linkedin</h3>
+          </div>
+       
+        <!-- facebook -->
+       <div class="flex mr-24">
+
+         <img class="w-8 ml-4 object-contain" src="images/facebook.png" alt="">
+         <h3 class="text-white font-bold text-xs py-2 ml-5">Check out our <br>  facebook</h3>
+      
+       </div>
+
+        <!-- twitter -->
+        
+        <div class="flex mr-24">
+
+          <img class="w-8 object-contain  ml-4" src="images/twitter.webp" alt="">
+          <h3 class="text-white font-bold  text-xs py-2 ml-5">See what we <br> tweet about</h3>
+      
+        </div>
+        <!-- instagram -->
+       
+        <div class="flex">
+
+          <img class="w-8 ml-4 object-contain" src="images/instagram.webp" alt="">
+          <h3 class="text-white font-bold ml-5 text-xs py-2">Join our <br>  instagram</h3>
+        </div>
+       
+
+        </div>
+
+        <!-- playstore -->
+        <div class="flex mr-2 my-7">
+
+          <img src="images/google play.png" class="w-32 object-contain" alt="">
+          <img src="images/appstore.png" class="w-32 object-contain" alt="">
+        </div>
+
+
+
+
+      </div>
+    </div>
     <!-- footer -->
     <footer class="bg-slate-950 h-20">
       <div class="flex justify-between">
@@ -200,7 +251,7 @@
         </div>
         <!-- made with love -->
         <div class="mt-7">
-          <p  class="text-gray-400 mr-10">made with ❤️ by mobLearn | &copy; <?php echo date('Y') ?></p>
+          <p  class="text-gray-400 mr-10">made with ❤️ by MobLearn | &copy; <?php echo date('Y') ?></p>
         </div>
       </div>
 
