@@ -278,7 +278,7 @@ button:hover{
   position: relative;
   display: flex;
   align-items: flex-end;
-  background-image: url(,/images/use.png);
+  background-image: url(./images/use.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

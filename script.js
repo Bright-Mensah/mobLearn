@@ -11,5 +11,5 @@ $('#btnLogin').click(function(){
 
 // sign up button
 $('#btnSignUp').click(function(){
-    window.location.href="http://localhost/moblearn/login.php";
+    window.location.href="http://localhost/moblearn/signUp.php";
 })
