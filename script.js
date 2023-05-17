@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+// <<<<<<< HEAD
 let calcScrollValue = () => {
     let scrollProgress = document.getElementById("progress");
     let progressValue = document.getElementById("progress-value");
@@ -19,7 +19,7 @@ let calcScrollValue = () => {
 
 window.onscroll = calcScrollValue;
 window.onload = calcScrollValue;
-=======
+
 
 // start learning button
 $('#btnStartLearning').click(function(){
@@ -35,4 +35,4 @@ $('#btnLogin').click(function(){
 $('#btnSignUp').click(function(){
     window.location.href="http://localhost/moblearn/signUp.php";
 })
->>>>>>> a9a55b66580d7bb7ca7f35815265b165f89dc1c8
+// >>>>>>> a9a55b66580d7bb7ca7f35815265b165f89dc1c8
